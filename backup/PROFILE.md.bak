@@ -1,0 +1,142 @@
+<!-- ═══════════════ HEADER BANNER ═══════════════ -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Amboyy&fontSize=70&fontColor=ffffff&animation=fadeIn&desc=Informatics%20Student%20%C2%B7%20Software%20Developer&descSize=20&descAlignY=78" width="100%" alt="Header Banner" />
+
+<!-- ═══════════════ TYPING ANIMATION ═══════════════ -->
+
+<a href="https://github.com/Emil-02">
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=2F81F7&center=true&vCenter=true&width=520&lines=Software+Developer;Creator+of+Amboyy+AI;UI%2FUX+Design+Enthusiast;Flutter+%26+Mobile+Enthusiast;AI+%26+Computational+Explorer;Always+Learning%2C+Always+Coding" alt="Typing Animation" />
+</a>
+
+</div>
+
+<br>
+
+<!-- ═══════════════ ABOUT ME ═══════════════ -->
+
+## 🧑‍💻 About Me
+
+- 🎓 Informatics student focusing on **algorithms, data structures, and OOP**
+- 📱 Building **mobile & web apps** with Flutter, JavaScript, and TypeScript
+- 🎨 Designing **UI/UX** — from Figma prototypes to working interfaces
+- 🤖 Exploring **AI integration** and computational engineering with Python
+- 🌱 Currently sharpening my skills in **software architecture & clean code**
+
+<br>
+
+<!-- ═══════════════ TECH STACK ═══════════════ -->
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### 💻 Languages
+
+<table>
+  <tr>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=java" width="44" alt="Java" /><br /><sub><b>Java</b></sub></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=python" width="44" alt="Python" /><br /><sub><b>Python</b></sub></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=js" width="44" alt="JavaScript" /><br /><sub><b>JavaScript</b></sub></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=ts" width="44" alt="TypeScript" /><br /><sub><b>TypeScript</b></sub></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=dart" width="44" alt="Dart" /><br /><sub><b>Dart</b></sub></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=html" width="44" alt="HTML5" /><br /><sub><b>HTML5</b></sub></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=css" width="44" alt="CSS3" /><br /><sub><b>CSS3</b></sub></td>
+  </tr>
+</table>
+
+### 🧰 Frameworks & Tools
+
+<table>
+  <tr>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=flutter" width="44" alt="Flutter" /><br /><sub><b>Flutter</b></sub></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=firebase" width="44" alt="Firebase" /><br /><sub><b>Firebase</b></sub></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=mysql" width="44" alt="MySQL" /><br /><sub><b>MySQL</b></sub></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=git" width="44" alt="Git" /><br /><sub><b>Git</b></sub></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=github" width="44" alt="GitHub" /><br /><sub><b>GitHub</b></sub></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=vscode" width="44" alt="VS Code" /><br /><sub><b>VS Code</b></sub></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=vite" width="44" alt="Vite" /><br /><sub><b>Vite</b></sub></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=figma" width="44" alt="Figma" /><br /><sub><b>Figma</b></sub></td>
+  </tr>
+</table>
+
+</div>
+
+<br>
+
+<!-- ═══════════════ GITHUB STATS (ADAPTIVE) ═══════════════ -->
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Emil-02&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github&bg_color=00000000" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Emil-02&show_icons=true&hide_border=true&theme=default&rank_icon=github&bg_color=00000000" alt="GitHub Stats" width="100%" />
+      </picture>
+    </td>
+    <td width="50%" align="center">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Emil-02&layout=compact&hide_border=true&theme=github_dark&bg_color=00000000" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emil-02&layout=compact&hide_border=true&theme=default&bg_color=00000000" alt="Top Languages" width="100%" />
+      </picture>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Emil-02&hide_border=true&theme=github-dark-blue&background=00000000" />
+        <img src="https://streak-stats.demolab.com/?user=Emil-02&hide_border=true&background=00000000" alt="GitHub Streak" />
+      </picture>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<br>
+
+<!-- ═══════════════ FEATURED PROJECTS ═══════════════ -->
+
+## 🚀 Featured Projects
+
+| Project           | Description                                                        | Tech                      |
+| ----------------- | ------------------------------------------------------------------ | ------------------------- |
+| **Amboyy AI**     | Voice & chat AI assistant with real-time data and text-to-speech   | TypeScript, Vite, Groq AI |
+| **Eco-Stock**     | Smart inventory management with OCR scanning and barcode detection | Flutter, Firebase, ML Kit |
+| **Gorden POS**    | Point of Sale application for curtain business management          | React, Capacitor, Gemini  |
+| **QiblaHub**      | Islamic application with qibla direction and prayer features       | Flutter, Dart             |
+| **Web AIK**       | Islamic companion web app (QiblaHub web version)                   | HTML, CSS, JavaScript     |
+| **AI Chat Story** | Interactive AI-powered chat story application                      | Flutter, Node.js, Python  |
+| **Kamus Konjo**   | Regional language dictionary with genetic algorithm search         | Python                    |
+
+> 📌 Check out my pinned repositories below for more!
+
+<br>
+
+<!-- ═══════════════ SNAKE ANIMATION ═══════════════ -->
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Emil-02/Emil-02/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Emil-02/Emil-02/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</picture>
+
+</div>
+
+<!-- ═══════════════ FOOTER ═══════════════ -->
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=Emil-02&color=blue&style=flat-square)
+
+_Thanks for visiting my profile!_ ⭐
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" alt="Footer Banner" />
+
+</div>
