@@ -63,6 +63,15 @@
 <div align="center">
 
 <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Emil-02&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github&bg_color=00000000&include_all_commits=true&count_private=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Emil-02&show_icons=true&hide_border=true&theme=default&rank_icon=github&bg_color=00000000&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Emil-02&layout=compact&hide_border=true&theme=github_dark&bg_color=00000000&langs_count=8" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emil-02&layout=compact&hide_border=true&theme=default&bg_color=00000000&langs_count=8" alt="Top Languages" />
+</picture>
+
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Emil-02&hide_border=true&theme=github-dark-blue&background=00000000" />
   <img width="420" src="https://streak-stats.demolab.com/?user=Emil-02&hide_border=true&background=00000000" alt="GitHub Streak" />
 </picture>
