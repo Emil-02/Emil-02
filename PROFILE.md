@@ -63,20 +63,6 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Emil-02&theme=github_dark" />
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Emil-02&theme=github" alt="Profile Details" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Emil-02&theme=github_dark" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Emil-02&theme=github" alt="GitHub Stats" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Emil-02&theme=github_dark" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Emil-02&theme=github" alt="Top Languages by Repo" />
-</picture>
-
-<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Emil-02&hide_border=true&theme=github-dark-blue&background=00000000" />
   <img width="420" src="https://streak-stats.demolab.com/?user=Emil-02&hide_border=true&background=00000000" alt="GitHub Streak" />
 </picture>
