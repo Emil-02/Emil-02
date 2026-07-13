@@ -12,6 +12,15 @@
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=3500&color=F59E0B&center=true&vCenter=true&width=520&height=35&repeat=false&lines=%E2%9C%A6+Debug+your+past%2C+compile+your+future+%E2%9C%A6" alt="Motto: Debug your past, compile your future" />
 
+<br>
+
+<a href="https://emil-02.github.io/Web_Amboyy/">
+<img src="https://img.shields.io/badge/🌌_Portofolio-Jelajahi_Semestaku-8b5cf6?style=for-the-badge&labelColor=0d1117" alt="Portofolio Website" />
+</a>
+<a href="https://emil-02.github.io/Web_Amboyy/#game">
+<img src="https://img.shields.io/badge/🕹️_Astro_Dodge-Main_%26_Rebut_Podium-22d3ee?style=for-the-badge&labelColor=0d1117" alt="Mini Game Astro Dodge" />
+</a>
+
 </div>
 
 <!-- ═══════════════ ABOUT ME ═══════════════ -->
@@ -19,6 +28,7 @@
 ## 🧑‍💻 About Me
 
 - 🎓 Informatics student at unismuh makassar
+- 🌌 Explore my universe → **[emil-02.github.io/Web_Amboyy](https://emil-02.github.io/Web_Amboyy/)** — portfolio + playable space game 🚀
 - 📱 Building **mobile & web apps** with Flutter, JavaScript, and TypeScript
 - 🎨 Designing **UI/UX** — from Figma prototypes to working interfaces
 - 🤖 Exploring **AI integration** and computational engineering with Python
