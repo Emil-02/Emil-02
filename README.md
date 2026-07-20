@@ -81,50 +81,10 @@
 
 ## 🚀 Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/Emil-02/QiblaHub">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Emil-02&repo=QiblaHub&theme=github-dark-blue&hide_border=true&bg_color=00000000&title_color=D946EF&icon_color=22d3ee&text_color=ffffff" alt="QiblaHub" />
-</a>
-<a href="https://github.com/Emil-02/Web-QiblaHub">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Emil-02&repo=Web-QiblaHub&theme=github-dark-blue&hide_border=true&bg_color=00000000&title_color=D946EF&icon_color=22d3ee&text_color=ffffff" alt="Web-QiblaHub" />
-</a>
-<a href="https://github.com/Emil-02/Sistem_ReservasiTiketBioskop">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Emil-02&repo=Sistem_ReservasiTiketBioskop&theme=github-dark-blue&hide_border=true&bg_color=00000000&title_color=D946EF&icon_color=22d3ee&text_color=ffffff" alt="Sistem Reservasi Tiket Bioskop" />
-</a>
-<a href="https://github.com/Emil-02/Rekayasa_Komputasional">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Emil-02&repo=Rekayasa_Komputasional&theme=github-dark-blue&hide_border=true&bg_color=00000000&title_color=D946EF&icon_color=22d3ee&text_color=ffffff" alt="Rekayasa Komputasional" />
-</a>
-
-</div>
-
-<div align="center">
-
-**📿 QiblaHub** — Islamic companion app (mobile + web) · **🎬 Cinema Ticket Reservation** — distributed Flask web app · **🧬 Kamus Konjo** — Genetic Algorithm from scratch
-
-</div>
-
-<br>
-
-<!-- ═══════════════ GITHUB STATS (ADAPTIVE) ═══════════════ -->
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Emil-02&show_icons=true&hide_border=true&theme=github-dark-blue&bg_color=00000000&title_color=D946EF&icon_color=22d3ee&text_color=ffffff&include_all_commits=true&count_private=true" />
-  <img width="420" src="https://github-readme-stats.vercel.app/api?username=Emil-02&show_icons=true&hide_border=true&bg_color=00000000&include_all_commits=true" alt="GitHub Stats" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Emil-02&hide_border=true&theme=github-dark-blue&background=00000000" />
-  <img width="420" src="https://streak-stats.demolab.com/?user=Emil-02&hide_border=true&background=00000000" alt="GitHub Streak" />
-</picture>
-
-<img width="330" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emil-02&layout=compact&hide_border=true&theme=github-dark-blue&bg_color=00000000&title_color=D946EF&text_color=ffffff&langs_count=8" alt="Top Languages" />
-
-</div>
+- [**QiblaHub**](https://github.com/Emil-02/QiblaHub) — Islamic companion app for mobile.
+- [**Web QiblaHub**](https://github.com/Emil-02/Web-QiblaHub) — web companion for QiblaHub.
+- [**Cinema Ticket Reservation**](https://github.com/Emil-02/Sistem_ReservasiTiketBioskop) — distributed Flask web app.
+- [**Computational Engineering**](https://github.com/Emil-02/Rekayasa_Komputasional) — LSTM and Genetic Algorithm explorations.
 
 <br>
 
