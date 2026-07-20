@@ -77,17 +77,6 @@
 
 <br>
 
-<!-- ═══════════════ FEATURED PROJECTS ═══════════════ -->
-
-## 🚀 Featured Projects
-
-- [**QiblaHub**](https://github.com/Emil-02/QiblaHub) — Islamic companion app for mobile.
-- [**Web QiblaHub**](https://github.com/Emil-02/Web-QiblaHub) — web companion for QiblaHub.
-- [**Cinema Ticket Reservation**](https://github.com/Emil-02/Sistem_ReservasiTiketBioskop) — distributed Flask web app.
-- [**Computational Engineering**](https://github.com/Emil-02/Rekayasa_Komputasional) — LSTM and Genetic Algorithm explorations.
-
-<br>
-
 <!-- ═══════════════ CONNECT ═══════════════ -->
 
 ## 🌐 Let's Connect
