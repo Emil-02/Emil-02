@@ -36,6 +36,39 @@
 
 <br>
 
+<!-- ═══════════════ OPEN TO WORK ═══════════════ -->
+
+## 💼 Open to Work
+
+> 🟢 **Available for freelance projects & remote internship / junior roles** (Flutter · Next.js · AI integration)
+
+| 🛠️ Service                     | What I deliver                                                                 |
+| ------------------------------ | ------------------------------------------------------------------------------ |
+| 📱 **Mobile apps (Flutter)**   | Android/iOS apps with Supabase or Firebase backend, auth, notifications, maps |
+| 🌐 **Web apps (Next.js)**      | Full-stack web apps, dashboards, marketplaces, realtime chat, Row Level Security |
+| 🧾 **Business apps for SMEs**  | Point of Sale, inventory & stock management, sales reports                     |
+| 🤖 **AI integration**          | Gemini / Groq / OpenAI chatbots, document & image extraction, smart assistants |
+
+📩 Reach me via the **[contact form on my portfolio](https://emil-02.github.io/Web_Amboyy/#kontak)** (WhatsApp / email).
+
+<br>
+
+<!-- ═══════════════ FEATURED PROJECTS ═══════════════ -->
+
+## 🚀 Featured Projects
+
+| Project | Description | Stack |
+| ------- | ----------- | ----- |
+| 🛒 **[JasaHub](https://jasahub.vercel.app)** (live) | Student service marketplace with **escrow payments**, realtime chat, reviews, admin mediation & payouts | Next.js · TypeScript · Supabase |
+| 🔍 **[Temuin](https://github.com/Emil-02/Temuin)** | AI-powered **Lost & Found** — automatic lost ↔ found matching, ownership verification, secure chat (CREATHON 2026) | Next.js · Supabase · Gemma/Gemini |
+| 🕌 **[QiblaHub](https://github.com/Emil-02/QiblaHub)** · [web](https://github.com/Emil-02/Web-QiblaHub) | Islamic companion app — qibla compass, prayer times + adhan notifications, Hijri calendar, nearby mosques | Flutter · OpenStreetMap |
+| 🎬 **[Nusantara Cinema](https://github.com/Emil-02/Sistem_ReservasiTiketBioskop)** | Distributed ticket reservation — master-slave replication & **Two-Phase Commit** across 3 branch servers | Python · Flask |
+| 🌌 **[Portfolio Semesta](https://github.com/Emil-02/Web_Amboyy)** · [live](https://emil-02.github.io/Web_Amboyy/) | Space-themed portfolio with AI assistant & arcade game with live global leaderboard | JavaScript · Firebase |
+
+<sub>Also built (private repos): **CampusMate** (Flutter + Supabase + Gemini academic planner), **Gorden POS** (React + Capacitor POS for a curtain business), **Eco-Stock** (weather-aware SME inventory with LSTM sales forecast).</sub>
+
+<br>
+
 <!-- ═══════════════ TECH STACK ═══════════════ -->
 
 ## 🛠️ Tech Stack
