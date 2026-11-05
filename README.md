@@ -60,12 +60,13 @@
 | Project | Description | Stack |
 | ------- | ----------- | ----- |
 | 🛒 **[JasaHub](https://jasahub.vercel.app)** (live) | Student service marketplace with **escrow payments**, realtime chat, reviews, admin mediation & payouts | Next.js · TypeScript · Supabase |
+| 🎓 **[CampusMate](https://github.com/Emil-02/Campus_Hub)** | Academic planner for students — **AI imports KRS from a photo**, schedules with clash detection, tasks, rich-text notes, calendar & reminders | Flutter · Riverpod · Supabase · Gemini |
 | 🔍 **[Temuin](https://github.com/Emil-02/Temuin)** | AI-powered **Lost & Found** — automatic lost ↔ found matching, ownership verification, secure chat (CREATHON 2026) | Next.js · Supabase · Gemma/Gemini |
 | 🕌 **[QiblaHub](https://github.com/Emil-02/QiblaHub)** · [web](https://github.com/Emil-02/Web-QiblaHub) | Islamic companion app — qibla compass, prayer times + adhan notifications, Hijri calendar, nearby mosques | Flutter · OpenStreetMap |
 | 🎬 **[Nusantara Cinema](https://github.com/Emil-02/Sistem_ReservasiTiketBioskop)** | Distributed ticket reservation — master-slave replication & **Two-Phase Commit** across 3 branch servers | Python · Flask |
 | 🌌 **[Portfolio Semesta](https://github.com/Emil-02/Web_Amboyy)** · [live](https://emil-02.github.io/Web_Amboyy/) | Space-themed portfolio with AI assistant & arcade game with live global leaderboard | JavaScript · Firebase |
 
-<sub>Also built (private repos): **CampusMate** (Flutter + Supabase + Gemini academic planner), **Gorden POS** (React + Capacitor POS for a curtain business), **Eco-Stock** (weather-aware SME inventory with LSTM sales forecast).</sub>
+<sub>Also built (private repos): **Gorden POS** (React + Capacitor POS for a curtain business), **Eco-Stock** (weather-aware SME inventory with LSTM sales forecast).</sub>
 
 <br>
 
