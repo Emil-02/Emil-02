@@ -68,6 +68,13 @@
 
 <sub>Also built (private repos): **Gorden POS** (React + Capacitor POS for a curtain business), **Eco-Stock** (weather-aware SME inventory with LSTM sales forecast).</sub>
 
+### 🧩 Open Source
+
+| Project | Description | Stack |
+| ------- | ----------- | ----- |
+| 📈 **[smc-engine](https://github.com/Emil-02/smc-engine)** | **Smart Money Concepts (ICT)** detection library: swings, BOS/CHoCH, order blocks, FVG, breakers, liquidity sweeps, OTE & explainable confluence score — extracted from my live XAU/USD signal system | Python · pandas · NumPy |
+| 🌸 **[cachyos-hypr-dotfiles](https://github.com/Emil-02/cachyos-hypr-dotfiles)** | Four Hyprland desktop shells (Noctalia, Caelestia, end-4, SekaiPop) on one CachyOS install, switched with one keybind — safe installer with automatic backups | Bash · Hyprland · Quickshell |
+
 <br>
 
 <!-- ═══════════════ TECH STACK ═══════════════ -->
