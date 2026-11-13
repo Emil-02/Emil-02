@@ -73,7 +73,22 @@
 | Project | Description | Stack |
 | ------- | ----------- | ----- |
 | 📈 **[smc-engine](https://github.com/Emil-02/smc-engine)** | **Smart Money Concepts (ICT)** detection library: swings, BOS/CHoCH, order blocks, FVG, breakers, liquidity sweeps, OTE & explainable confluence score — extracted from my live XAU/USD signal system | Python · pandas · NumPy |
+| 🌲 **[gh-spruce](https://github.com/Emil-02/gh-spruce)** · [web](https://gh-spruce.vercel.app) | **Lighthouse for your GitHub profile** — audits every repo, scores it 0–100, opens PRs that fix LICENSE/CI/README/topics, and serves health cards & badges by URL | Go · GitHub CLI · GraphQL · Vercel |
 | 🌸 **[cachyos-hypr-dotfiles](https://github.com/Emil-02/cachyos-hypr-dotfiles)** | Four Hyprland desktop shells (Noctalia, Caelestia, end-4, SekaiPop) on one CachyOS install, switched with one keybind — safe installer with automatic backups | Bash · Hyprland · Quickshell |
+
+<br>
+
+<!-- ═══════════════ REPO HEALTH ═══════════════ -->
+
+## 📊 Repo Health
+
+<div align="center">
+
+<a href="https://gh-spruce.vercel.app/u/Emil-02"><img src="https://gh-spruce.vercel.app/api/card?user=Emil-02" alt="Emil-02 repository health by gh-spruce" width="495" /></a>
+
+<sub>Scored by <a href="https://github.com/Emil-02/gh-spruce">gh-spruce</a> — check yours at <a href="https://gh-spruce.vercel.app">gh-spruce.vercel.app</a></sub>
+
+</div>
 
 <br>
 
